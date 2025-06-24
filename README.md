@@ -15,16 +15,12 @@
 
 ---
 
-### 📊 **Statistik GitHub Saya**
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfrxyx&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="alfrxyx" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfrxyx&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="alfrxyx" />
 </p>
 
 ---
-
-### 🛠️ **Teknologi & Tools yang Saya Gunakan**
 
 <p align="center">
   <a href="https://skillicons.dev">
