@@ -1,38 +1,37 @@
-<div id="header" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Alfarabi+Gazali+Sati+%F0%9F%91%8B" alt="Typing SVG" />
-</div>
+<h1 align="center">Nice To Meet You.</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3QydjM3a2F3OG4ybGZjc3BhdGNuYWF6NGVkaXVtdzNlMHF0OWRkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lADK/giphy.gif" width="700">
+</p>
+<br>
 
 <p align="center">
-  Hello, introduce me  Alfarabi   Gazali   Sati, I am a   student   of
-Ahmad Dahlan University,  Informatics study  program. I am a
-graphic designer, ui/ux designer and video editor, I have quite
-good creativity. I have been  exploring  these fields for 2  years.
-I am ready to contribute to the team and discover new things.
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfrxyx&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="alfrxyx" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfrxyx&theme=tokyonight&hide_border=true" alt="alfrxyx" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/username-anda">LinkedIn</a> •
-  <a href="https://instagram.com/username-anda">Instagram</a> •
-  <a href="mailto:emailanda@gmail.com">Email</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfrxyx&theme=tokyonight&hide_border=true" alt="activity graph" />
 </p>
 
----
-
+<h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfrxyx&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="alfrxyx" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfrxyx&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="alfrxyx" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
----
-
+<h3 align="center">My Trophies</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,figma,git,vscode&perline=6" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alfrxyx&theme=tokyonight&row=1&column=8&no-frame=true&no-bg=true" alt="alfrxyx" />
 </p>
 
----
+<h3 align="center">My Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alfrxyx/alfrxyx/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake" />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alfrxyx/alfrxyx/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://komarev.com/ghpvc/?username=alfrxyx&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="alfrxyx" />
 </p>
