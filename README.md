@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Alfarabi Gazali Sati! 👋
+
+I am a   student   of
+Ahmad Dahlan University,  Informatics study  program. I am a
+graphic designer, ui/ux designer and video editor, I have quite
+good creativity. I have been  exploring  these fields for 2  years.
+I am ready to contribute to the team and discover new things.
+
+* 🔭 I’m currently working on a personal finance tracker app.
+* 🌱 I’m currently learning about WebAssembly and Rust.
+* 📫 How to reach me: [email@example.com](alfarabigajali@gmail.com) or on [LinkedIn](https://linkedin.com/in/alfarabi-alfrxyx3).
 
 <!--
 **alfrxyx/alfrxyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
