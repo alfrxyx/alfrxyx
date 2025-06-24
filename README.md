@@ -6,11 +6,11 @@
 </p>
 <br>
 
-<h3 align="center">My GitHub Stats</h3>
+<h3 align="center">My GitHub Metrics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfrxyx&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=152238&title_color=F7DD00&text_color=FFFFFF" alt="alfrxyx top langs" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alfrxyx&show_icons=true&locale=en&theme=transparent&bg_color=152238&title_color=F7DD00&text_color=FFFFFF" alt="alfrxyx" width="410" />
+  <img src="https://metrics.lecoq.io/alfrxyx?username=alfrxyx&theme=tokyonight&hide_border=true&plugins=languages,isocalendar,lines,habits&config_timezone=Asia/Jakarta" alt="alfrxyx metrics" />
 </p>
+
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
