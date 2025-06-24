@@ -6,13 +6,6 @@
 </p>
 <br>
 
-<h3 align="center">My GitHub Summary</h3>
-<p align="center">
-  <img src="https://github-profile-summary-card.vercel.app/api/cards/profile-details?username=alfrxyx&theme=monokai" alt="Alfarabi's Profile Details" />
-  <img src="https://github-profile-summary-card.vercel.app/api/cards/repos-per-language?username=alfrxyx&theme=monokai&layout=compact" alt="Alfarabi's Language Stats" />
-</p>
-
-<h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DD00?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-152238?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -21,7 +14,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-152238?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-<h3 align="center">My Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/alfrxyx/alfrxyx/output/github-contribution-grid-snake-dark.svg?palette=yellow,red" alt="snake" />
 </p>
