@@ -1,4 +1,6 @@
-<h1 align="center">Nice To Meet You.</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Nice%20To%20Meet%20You&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3QydjM3a2F3OG4ybGZjc3BhdGNuYWF6NGVkaXVtdzNlMHF0OWRkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lADK/giphy.gif" width="700">
 </p>
