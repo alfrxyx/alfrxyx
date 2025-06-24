@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfrxyx&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=152238&title_color=F7DD00&text_color=FFFFFF" alt="alfrxyx" />
-  <img align="center" src="https://streak-stats.demolab.com/api/?user=alfrxyx&theme=dark&background=152238&fire=F7DD00&ring=DC2626&currStreakLabel=F7DD00" alt="alfrxyx" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfrxyx&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=152238&title_color=F7DD00&text_color=FFFFFF" alt="alfrxyx top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfrxyx&show_icons=true&locale=en&theme=transparent&bg_color=152238&title_color=F7DD00&text_color=FFFFFF" alt="alfrxyx" />
 </p>
 
 <h3 align="center">Tech Stack</h3>
