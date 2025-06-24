@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-152238?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-<h3 align="center">My Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/alfrxyx/alfrxyx/output/github-contribution-grid-snake-dark.svg?palette=yellow,red" alt="snake" />
 </p>
