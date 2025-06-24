@@ -6,10 +6,10 @@
 </p>
 <br>
 
-<h3 align="center">My GitHub Stats</h3>
+<h3 align="center">My GitHub Summary</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfrxyx&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=152238&title_color=F7DD00&text_color=FFFFFF" alt="alfrxyx top langs" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alfrxyx&show_icons=true&locale=en&theme=transparent&bg_color=152238&title_color=F7DD00&text_color=FFFFFF" alt="alfrxyx" width="410" />
+  <img src="https://github-profile-summary-card.vercel.app/api/cards/profile-details?username=alfrxyx&theme=monokai" alt="Alfarabi's Profile Details" />
+  <img src="https://github-profile-summary-card.vercel.app/api/cards/repos-per-language?username=alfrxyx&theme=monokai&layout=compact" alt="Alfarabi's Language Stats" />
 </p>
 
 <h3 align="center">Tech Stack</h3>
