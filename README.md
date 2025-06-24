@@ -30,8 +30,6 @@
 
 ---
 
-### 🐍 **Kontribusi Saya dalam Bentuk Ular**
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/alfrxyx/alfrxyx/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
