@@ -1,0 +1,41 @@
+# Nama Workflow
+name: Generate Snake Animation
+
+# Pemicu (Trigger) - Kapan Action ini berjalan
+on:
+  # Berjalan otomatis setiap hari jam 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Memungkinkan kita menjalankannya secara manual dari tab Actions
+  workflow_dispatch:
+
+# Pekerjaan (Jobs) yang akan dilakukan
+jobs:
+  build:
+    # Menggunakan sistem operasi Ubuntu terbaru
+    runs-on: ubuntu-latest
+
+    steps:
+      # Langkah 1: Mengambil kode dari repository Anda
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Langkah 2: Membuat animasi ular
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          # Ganti 'alfrxyx' dengan username GitHub Anda jika berbeda
+          github_user_name: alfrxyx
+          # File output yang akan dibuat
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Langkah 3: Mendorong file gambar yang baru dibuat ke branch 'output'
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
