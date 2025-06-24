@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hi, I'm alfrxyx 👋
-</h1>
+<div id="header" align="center">
+  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&separator=%3C&lines=Hi%2C+I'm+alfrxyx+%F0%9F%91%8B;Im+From+Indonesia)](https://git.io/typing-svg)" />
+</div>
 
 <p align="center">
   I'm a developer from Indonesia, currently focusing on building beautiful and functional web applications. 
