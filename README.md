@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=30A46C&width=435&lines=Hi, I'm alfrxyx 👋;A Passionate Web Developer;I Build Things for The Web;Always Learning & Growing" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  Hi, I'm alfrxyx 👋
+</h1>
 
 <p align="center">
   I'm a developer from Indonesia, currently focusing on building beautiful and functional web applications. 
