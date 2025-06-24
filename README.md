@@ -3,8 +3,11 @@
 </div>
 
 <p align="center">
-  I'm a developer from Indonesia, currently focusing on building beautiful and functional web applications. 
-  <br>I enjoy turning complex problems into simple, beautiful and intuitive designs.
+  Hello, introduce me  Alfarabi   Gazali   Sati, I am a   student   of
+Ahmad Dahlan University,  Informatics study  program. I am a
+graphic designer, ui/ux designer and video editor, I have quite
+good creativity. I have been  exploring  these fields for 2  years.
+I am ready to contribute to the team and discover new things.
 </p>
 
 <p align="center">
