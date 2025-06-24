@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Alfarabi+Gazali+Sati+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3QydjM3a2F3OG4ybGZjc3BhdGNuYWF6NGVkaXVtdzNlMHF0OWRkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lADK/giphy.gif" width="700">
+</p>
 <br>
 
 <p align="center">
