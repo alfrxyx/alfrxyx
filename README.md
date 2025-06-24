@@ -6,6 +6,21 @@
 </p>
 <br>
 
+<h3 align="center">My GitHub Stats</h3>
+<p align="center">
+    <a href="https://github.com/alfrxyx">
+    <img src="https://img.shields.io/github/followers/alfrxyx?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/alfrxyx">
+    <img src="https://img.shields.io/badge/Contributions-All%20Time-yellow?style=flat-square&logo=github" alt="GitHub Contributions" />
+  </a>
+  <a href="https://github.com/alfrxyx">
+    <img src="https://komarev.com/ghpvc/?username=alfrxyx&label=PROFILE+VIEWS&color=red&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
+
+
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DD00?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-152238?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -14,10 +29,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-152238?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
+<h3 align="center">My Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/alfrxyx/alfrxyx/output/github-contribution-grid-snake-dark.svg?palette=yellow,red" alt="snake" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alfrxyx&label=PROFILE+VIEWS&color=DC2626&style=flat-square" alt="alfrxyx" />
 </p>
